@@ -21,3 +21,5 @@ This sample goes through these techniques and shows how they are implemented, an
 
 1. Making sure the sample works on Xbox correctly as I expect some handling of the controller needs to be done.
 2. Detailed project documentation in a blogpost, soon to be linked here
+
+teste
